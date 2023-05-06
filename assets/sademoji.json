@@ -1,0 +1,131 @@
+{
+    "image": {
+        "name": "https:\/\/theonlineconverter.com\/uploads\/Sad_Emoji_1652331378964.png",
+        "format": "PNG",
+        "formatDescription": "Portable Network Graphics",
+        "mimeType": "image\/png",
+        "class": "DirectClass",
+        "geometry": {
+            "width": 203,
+            "height": 252,
+            "x": 0,
+            "y": 0
+        },
+        "units": "Undefined",
+        "type": "TrueColorAlpha",
+        "endianess": "Undefined",
+        "colorspace": "sRGB",
+        "depth": 8,
+        "baseDepth": 8,
+        "channelDepth": {
+            "alpha": 8,
+            "red": 8,
+            "green": 8,
+            "blue": 8
+        },
+        "pixels": 51156,
+        "imageStatistics": {
+            "all": {
+                "min": "0",
+                "max": "255",
+                "mean": "90.7206",
+                "standardDeviation": "100.92",
+                "kurtosis": "-0.895467",
+                "skewness": "0.781153"
+            }
+        },
+        "channelStatistics": {
+            "alpha": {
+                "min": "0",
+                "max": "255",
+                "mean": "118.719",
+                "standardDeviation": "123.996",
+                "kurtosis": "-1.94734",
+                "skewness": "-0.171893"
+            },
+            "red": {
+                "min": "0",
+                "max": "255",
+                "mean": "115.237",
+                "standardDeviation": "120.74",
+                "kurtosis": "-1.87813",
+                "skewness": "0.248182"
+            },
+            "green": {
+                "min": "0",
+                "max": "255",
+                "mean": "89.1833",
+                "standardDeviation": "100.512",
+                "kurtosis": "-1.85984",
+                "skewness": "0.314415"
+            },
+            "blue": {
+                "min": "0",
+                "max": "132",
+                "mean": "22.1808",
+                "standardDeviation": "26.138",
+                "kurtosis": "-1.38127",
+                "skewness": "0.518053"
+            }
+        },
+        "alpha": "#00000000",
+        "renderingIntent": "Perceptual",
+        "gamma": 0.454545,
+        "chromaticity": {
+            "redPrimary": {
+                "x": 0.64,
+                "y": 0.33
+            },
+            "greenPrimary": {
+                "x": 0.3,
+                "y": 0.6
+            },
+            "bluePrimary": {
+                "x": 0.15,
+                "y": 0.06
+            },
+            "whitePrimary": {
+                "x": 0.3127,
+                "y": 0.329
+            }
+        },
+        "backgroundColor": "#FFFFFFFF",
+        "borderColor": "#DFDFDFFF",
+        "matteColor": "#BDBDBDFF",
+        "transparentColor": "#00000000",
+        "interlace": "None",
+        "intensity": "Undefined",
+        "compose": "Over",
+        "pageGeometry": {
+            "width": 203,
+            "height": 252,
+            "x": 0,
+            "y": 0
+        },
+        "dispose": "Undefined",
+        "iterations": 0,
+        "compression": "Zip",
+        "orientation": "Undefined",
+        "properties": {
+            "date:create": "2022-05-12T04:56:20+00:00",
+            "date:modify": "2022-05-12T04:56:20+00:00",
+            "png:IHDR.bit-depth-orig": "8",
+            "png:IHDR.bit_depth": "8",
+            "png:IHDR.color-type-orig": "6",
+            "png:IHDR.color_type": "6 (RGBA)",
+            "png:IHDR.interlace_method": "0 (Not interlaced)",
+            "png:IHDR.width,height": "203, 252",
+            "png:sRGB": "intent=0 (Perceptual Intent)",
+            "signature": "fd01c0aafeb6071575265eb23f03e8047905c4bd5e40229dbd0246f9dd868461"
+        },
+        "artifacts": {
+            "filename": "https:\/\/theonlineconverter.com\/uploads\/Sad_Emoji_1652331378964.png"
+        },
+        "tainted": false,
+        "filesize": "0B",
+        "numberPixels": "51.2K",
+        "pixelsPerSecond": "0B",
+        "userTime": "0.000u",
+        "elapsedTime": "0:01.000"
+    }
+}
