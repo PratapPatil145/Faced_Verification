@@ -266,6 +266,7 @@ class BaseHTTP {
       //   requestHeaders['Authorization'] = 'Bearer $expToken';
       // log(requestHeaders.toString());
       var url = Uri.parse(url1);
+      print("before url..${url}");
       final response =
           await http.post(url, body: body, headers: requestHeaders);
 

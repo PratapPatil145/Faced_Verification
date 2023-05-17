@@ -1,6 +1,5 @@
 import 'dart:io';
 
-import 'package:faced/module/Recognize/Ui/recognize_screen.dart';
 import 'package:faced/registering.dart';
 import 'package:faced/sample.dart';
 import 'package:flutter/material.dart';
@@ -10,6 +9,9 @@ import 'module/Dashboard/ui/dashboard.dart';
 import 'package:camera/camera.dart';
 import 'package:faced/recognized_auto.dart';
 import 'module/Image_Registation/ui/camera_screen.dart';
+import 'recogniced2/Ui/recognize_screen.dart';   
+
+
 
 SharedPreferences? sharedPrefrence;
 late List<CameraDescription> cameras;
@@ -46,7 +48,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       //home: islogin! ? DashboardScreen() : CameraScreen(),
-      home: RegisterButtonScreen(),
+      home: RecognizeScreen(),
     );
   }
 }
